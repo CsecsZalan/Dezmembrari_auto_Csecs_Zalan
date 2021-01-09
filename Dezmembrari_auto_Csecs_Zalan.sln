@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30523.141
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Dezmembrari_auto_Csecs_Zalan", "Dezmembrari_auto_Csecs_Zalan.csproj", "{929ECAEA-54E0-4867-AB47-37FBC95E40BA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{929ECAEA-54E0-4867-AB47-37FBC95E40BA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{929ECAEA-54E0-4867-AB47-37FBC95E40BA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{929ECAEA-54E0-4867-AB47-37FBC95E40BA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{929ECAEA-54E0-4867-AB47-37FBC95E40BA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0BD9F262-60C6-4D95-B2CA-A6017AE6A460}
+	EndGlobalSection
+EndGlobal
